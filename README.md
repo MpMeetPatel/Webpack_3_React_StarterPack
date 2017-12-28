@@ -1,4 +1,4 @@
-# ReactWebpackStarter
+# Webpack_3_React_StarterPack
 
 
 Step 1 : open terminal/CMD and nevigate to this directory and type "npm install"  // it will istall all require project dependencies
