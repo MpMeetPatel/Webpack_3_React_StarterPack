@@ -1,0 +1,13 @@
+@import './_variables.scss';
+@import './mixins/_samplemixin.scss';
+
+
+body {
+   @include BgColorWithTextColor($Bgcolor , $TextColor);
+}
+
+.Active {
+   font-size: 140%;
+   font-weight: bold;
+}
+
